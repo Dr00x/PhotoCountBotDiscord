@@ -22,6 +22,6 @@ async def cn(ctx,arg1,arg2):
   img.save(f'{os.path.abspath(__file__)}pil_text.png',quality=100)
   await ctx.send('working',file=discord.File('bot.pypil_text.png'))
 
-clnt.run('ODYyODMzMzA4MTg1MTMzMDg2.YOeGIw.0QBa_2uqWa9YheULPlDAjH7Gspg')
+clnt.run('Token')
 
 ##~jão
