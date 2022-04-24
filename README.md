@@ -1,2 +1,2 @@
 # PhotoCountBotDiscord
-Bot que conta e coloca o resultado em uma phot e envia.
+Bot que conta e coloca o resultado em uma foto e envia.
